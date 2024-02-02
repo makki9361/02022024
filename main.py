@@ -1,7 +1,7 @@
 import pyglet
 a = pyglet.media.load('gokitty.mp3', streaming=False)
 
-print('ฅ^•ﻌ•^ฅ')
+print('ฅ^•ﻌ•^ฅmmmeeu')
 
 a.play()
 pyglet.app.run()
